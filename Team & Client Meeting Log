@@ -133,7 +133,7 @@ Action Items:
 ********************************************************************************************************************
 
 ****************************** Studious Umbrella / Team Leidos : Weekly Meeting Agenda ******************************
-Agenda Skype Meeting (9/24) 12PM-2PM 
+Agenda Skype Meeting (9/25) 12PM-1:30PM 
 
 1) Sprint 1 Retro.  
 2) Sprint 2 Planning.
@@ -146,7 +146,8 @@ Invited : Senior Design Team - Ryan Vacca, Murat Siyfiyev, Susan Lee, Drew S
                 
  
 Attended : Senior Design Team -  Ryan Vacca, Murat Siyfiyev, Susan Lee, Drew Smegner.
-           Leidos Team        -  
+           Leidos Team        -  James Mccants, Jon Ellsworth 
+                                 Emily Blocker absent (was held up in a different meeting)
 
 
 Questions :
@@ -155,8 +156,29 @@ Questions :
 2) 
 
 Notes :
-
-1)
-2)
-3)
-4)
+1) Changed and updated information on Trello
+ - All of sprint 1's task must be labeled different from sprint 2
+ - Moved items from backlog to the to do list with sprint 2 label
+ 
+2) Things to consider when implementing code
+ -`GPS denied
+  -Must keep track of the path of the drone
+ -The drone will be flying on a 2D plane 
+   -no up and down movement (z axis movement)
+   
+3) Discussed what went well and what can be improved
+ -What went well:
+  -slack updates and communication
+  -early requirments documentation delivery
+ -What can be improved:
+  -revision control on the requirments document
+ 
+4) Check out the drone:
+ -Under the name Drew Smegner
+  
+ Action Items:
+ 1) Plan the next skype client meeting
+ 2) Aritecture diagram
+ 3) Get the requirments documentation approved by instructor
+ 4) Create a timeline (who, what, when)
+ 5) Start assigning tasks to members on Trello
