@@ -237,3 +237,19 @@ Action Items/To Do:
 
 Notes:
 
+* technical difficulties at the beggining of meeting for about 5 minutes due to school internet not working
+* we met with just Emily for Leidos during this meeting 
+* ryan went over his architecture diagram changes while we fixed the technical difficulties
+* need to add tech specs to Trello
+* Emily commented on Tech Specs that we need to add more to release 4
+* We talked about the sample code on github for android studios --  Emily suggested that we may be having difficulties because -
+ * of a a wifi port not being feindly to our connection
+* we asked about the drone wifi settings due to us not being able to find the drone wifi network
+ * response was to reset to factory settings (good idea)
+* we need to upload our connection code to our git 
+* Wed 10/16 at 12 is Leidos meeting 
+* we need to get our signature finalized from Debbie for REQ doc
+* Release 1 can be videos and pictures on slack
+* Release will be on the 22nd or 21st with a little leway for scheduling
+* CI check aka make sure Emily can build and run on her end
+
