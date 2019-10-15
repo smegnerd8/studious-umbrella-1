@@ -252,4 +252,11 @@ Notes:
 * Release 1 can be videos and pictures on slack
 * Release will be on the 22nd or 21st with a little leway for scheduling
 * CI check aka make sure Emily can build and run on her end
+-------------------AGENDA 10/16-------------
+-connection to drone and expectation
+-requirements document
+-technical specifications
+-sprint planning
+-expectation for the end of the semester 
+-json file for flight instructions if we could get a copy of it for future testing. (or how do you make that file)
 
